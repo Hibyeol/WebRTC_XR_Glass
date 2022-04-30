@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/OpenCVForUnity/Examples/ContribModules/face/FaceRecognizerExample/FaceRecognizerExample.unity
+    guid: dbdc400fca76d4c48be28d420e9567a9
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 811ef646ff137f443bb2d4f09d58254c, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 241f806172d212f4081d1620e32c534d, type: 2}
